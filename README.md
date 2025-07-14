@@ -1,8 +1,8 @@
-# 🌍 NASA Natural Events Dashboard
+# NASA Natural Events Dashboard
 
 This interactive dashboard uses data from NASA's EONET API to visualize global natural events — including wildfires, storms, volcanoes, and more. Built with Python and Streamlit, it features animated maps, data filtering, and downloadable datasets.
 
-## 🚀 Features
+## Features
 
 - Pulls live disaster data from NASA's EONET API
 - Interactive map with animation over time
@@ -11,10 +11,10 @@ This interactive dashboard uses data from NASA's EONET API to visualize global n
 - Download filtered results as CSV
 - Built using Python, pandas, Plotly, and Streamlit
 
-## 🎥 Preview
+## Preview
 ![Dashboard Preview](dashboard_preview.png)
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - Python
 - Streamlit
@@ -22,7 +22,7 @@ This interactive dashboard uses data from NASA's EONET API to visualize global n
 - pandas
 - NASA EONET API
 
-## 💻 How to Run
+## How to Run
 
 1. Clone the repo or download the files
 2. Install dependencies:
@@ -41,10 +41,10 @@ EONET/
 
 ---
 
-## 📦 requirements.txt
+## requirements.txt
 
 Now generate this file to list your dependencies:
 
-### ✅ Option A: Auto-generate (in your terminal):
+### Option A: Auto-generate (in your terminal):
 ```bash
 pip freeze > requirements.txt
